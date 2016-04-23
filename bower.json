@@ -1,0 +1,38 @@
+{
+  "name": "angularjs-boilerplate",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Chu Hoang Son <chuson1996@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "jquery": "~2.1.4",
+    "angular-ui-router": "~0.2.15",
+    "font-awesome": "~4.4.0",
+    "angular-ui-router.stateHelper": "~1.3.1",
+    "lodash": "~3.10.1",
+    "ngstorage": "~0.3.10",
+    "angular-resource": "~1.4.8",
+    "animate.css": "~3.4.0",
+    "angular-animate": "~1.4.8",
+    "angular-moment": "~0.10.3",
+    "moment": "~2.10.6",
+    "bootstrap-select": "~1.9.3",
+    "angular-base64": "~2.0.5",
+    "angular-http-auth": "~1.2.3"
+  },
+  "resolutions": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.9"
+  }
+}
